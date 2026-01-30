@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "figma_file_key": "96DCv4npJucpXV4leTmPZp",
+    "source": "exported visual_overview PNGs (rate-limited styles API)",
+    "notes": "Tokens approximated from screenshots; refine via Figma node styles if available."
+  },
+  "colors": {
+    "bg": "#0f1420",
+    "surface": "#2b3450",
+    "surfaceAlt": "#222a3f",
+    "border": "rgba(255,255,255,0.10)",
+    "text": "#f3f6ff",
+    "muted": "rgba(243,246,255,0.72)",
+    "link": "#55d4ff",
+    "brand": "#4b63d2",
+    "buttonBg": "#ffffff",
+    "buttonText": "#ff8a00"
+  },
+  "radii": {
+    "card": 10,
+    "modal": 12,
+    "button": 6
+  },
+  "shadow": {
+    "modal": "0 12px 40px rgba(0,0,0,0.45)"
+  },
+  "typography": {
+    "fontFamily": "Inter, ui-sans-serif, system-ui",
+    "h1": { "size": 48, "weight": 700, "lineHeight": 1.1 },
+    "body": { "size": 18, "weight": 400, "lineHeight": 1.5 }
+  }
+}
+

@@ -1,0 +1,34 @@
+{
+  "figma_file_key": "96DCv4npJucpXV4leTmPZp",
+  "total_frames": 21,
+  "frames": [
+    { "name": "Bar / Bar-Basic", "node_id": "809:4500", "gt_image": "frames/bar-basic.png", "target_route": "/frames/bar-basic" },
+    { "name": "Bar / Bar-Basic-1", "node_id": "817:126125", "gt_image": "frames/bar-basic-1.png", "target_route": "/frames/bar-basic-1" },
+    { "name": "Bar / VerticalBar-Basic", "node_id": "809:171764", "gt_image": "frames/verticalbar-basic.png", "target_route": "/frames/verticalbar-basic" },
+    { "name": "Bar / VerticalBar-Basic-1", "node_id": "809:376319", "gt_image": "frames/verticalbar-basic-1.png", "target_route": "/frames/verticalbar-basic-1" },
+    { "name": "Bar / Bar-Cylinder", "node_id": "809:54844", "gt_image": "frames/bar-cylinder.png", "target_route": "/frames/bar-cylinder" },
+    { "name": "Bar / Bar-Cube", "node_id": "809:129616", "gt_image": "frames/bar-cube.png", "target_route": "/frames/bar-cube" },
+    { "name": "Bar / DefaultPalette", "node_id": "809:4793", "gt_image": "frames/defaultpalette.png", "target_route": "/frames/defaultpalette" },
+    { "name": "Bar / 800FreeChartExample", "node_id": "809:4814", "gt_image": "frames/800freechartexample.png", "target_route": "/frames/800freechartexample" },
+    { "name": "Bar / 800FreeChartExample-1", "node_id": "834:10229", "gt_image": "frames/800freechartexample-1.png", "target_route": "/frames/800freechartexample-1" },
+
+    { "name": "Line / Bar-Basic", "node_id": "809:221300", "gt_image": "frames/line-bar-basic.png", "target_route": "/frames/line-bar-basic" },
+    { "name": "Line / Bar-Basic-1", "node_id": "817:144228", "gt_image": "frames/line-bar-basic-1.png", "target_route": "/frames/line-bar-basic-1" },
+
+    { "name": "Bar&Line / Bar-Basic", "node_id": "814:1448", "gt_image": "frames/barline-basic.png", "target_route": "/frames/barline-basic" },
+    { "name": "Bar&Line / Bar-Basic-1", "node_id": "817:168187", "gt_image": "frames/barline-basic-1.png", "target_route": "/frames/barline-basic-1" },
+
+    { "name": "Pie / Pie", "node_id": "815:19966", "gt_image": "frames/pie.png", "target_route": "/frames/pie" },
+    { "name": "Pie / Pie-1", "node_id": "817:103804", "gt_image": "frames/pie-1.png", "target_route": "/frames/pie-1" },
+
+    { "name": "Radar / Pie", "node_id": "816:50836", "gt_image": "frames/radar.png", "target_route": "/frames/radar" },
+    { "name": "Radar / Pie-1", "node_id": "817:113432", "gt_image": "frames/radar-1.png", "target_route": "/frames/radar-1" },
+
+    { "name": "Scatter / Pie", "node_id": "816:83507", "gt_image": "frames/scatter.png", "target_route": "/frames/scatter" },
+    { "name": "Scatter / Pie-1", "node_id": "817:122193", "gt_image": "frames/scatter-1.png", "target_route": "/frames/scatter-1" },
+
+    { "name": "Example / Frame 427321190", "node_id": "816:101517", "gt_image": "frames/example-427321190.png", "target_route": "/frames/example-427321190" },
+    { "name": "Example / Frame 427321191", "node_id": "817:165900", "gt_image": "frames/example-427321191.png", "target_route": "/frames/example-427321191" }
+  ]
+}
+
